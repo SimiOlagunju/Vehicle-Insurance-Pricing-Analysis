@@ -167,3 +167,15 @@ DIVIDE(
     COUNTROWS(insurance_pricing_dataset),
     0
 )
+
+3. Churn Analysis
+
+Customer churn was analysed across:
+
+Age groups
+Policy types
+Regions
+Pricing strategies
+Years
+
+A churn rate measure was created to calculate the proportion of customers classified as churned.
